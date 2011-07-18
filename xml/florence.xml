@@ -1,0 +1,94 @@
+<location name="Florence">
+<description>
+Florence (Italian: Firenze [fiˈrɛntse] ( listen), alternate obsolete form: 
+Fiorenza; Latin: Florentia) is the capital city of the Italian region of 
+Tuscany and of the province of Florence. It is the most populous city in 
+Tuscany, with c. 370,000 inhabitants (1,500,000 in the metropolitan area). 
+The city lies on the River Arno; it is known for its history and its 
+importance in the Middle Ages and in the Renaissance, especially for 
+its art and architecture and, more generally, for its cultural heritage. 
+A centre of medieval European trade and finance and one of the 
+wealthiest cities of the time,[3] Florence is considered the birthplace 
+of the Renaissance; it has been called the Athens of the Middle Ages.[4] 
+A turbulent political history included periods of rule by the powerful 
+Medici family, religious and republican revolution. From 1865 to 1870 
+the city was also the capital of the recently established Kingdom of 
+Italy.
+
+The historic centre of Florence attracts millions of tourists each year.
+ It was declared a World Heritage Site by UNESCO in 1982. Florence is 
+ regarded[5] as one of the most beautiful cities in the world,[6][7] 
+ and the impact of its artistic,[8] historic and cultural heritage in 
+ the world remains to this day. The city has a major impact in music, 
+ architecture, education, cuisine, fashion, philosophy, science and 
+ religion. The historic centre of Florence contains numerous historical 
+ squares, Renaissance palaces, academies, parks, gardens, churches, 
+ monasteries, museums, art galleries and ateliers.
+
+The city boasts a wide range of collections of art, especially those 
+held in the Pitti Palace and the Uffizi, (which receives about 1.6 
+million tourists a year).[9] It has been the birthplace or chosen 
+home of many notable historical figures, such as Dante, Boccaccio, 
+Leonardo da Vinci, Botticelli, Niccolò Machiavelli, Brunelleschi, 
+Michelangelo, Donatello, Galileo Galilei, Catherine de' Medici, 
+Giotto di Bondone, Luigi Cherubini, Antonio Meucci, Guccio Gucci, 
+Franco Zeffirelli, Salvatore Ferragamo, Roberto Cavalli, Leonardo 
+Bruni, Coluccio Salutati and Emilio Pucci.
+</description>
+<shortdesc>A must. Beautiful architecture, beautiful art, great coffee shops and food.
+The River Arno, Michaelangelo's David, the Duomo, and many expensive shops.
+</shortdesc>
+<lat>43.766666</lat>
+<long>11.25</long>
+<img src="Ponte_Vecchio.jpg" alt="The Ponte Vecchio" />
+<weather>
+<month>
+<name>Jan</name>
+<meanhigh>10.1</meanhigh><meanlow>1.4</meanlow><meanprecip>73.1</meanprecip>
+</month>
+<month>
+<name>Feb</name>
+<meanhigh>12</meanhigh><meanlow>2.8</meanlow><meanprecip>69.2</meanprecip>
+</month>
+<month>
+<name>Mar</name>
+<meanhigh>15</meanhigh><meanlow>4.9</meanlow><meanprecip>80.1</meanprecip>
+</month>
+<month>
+<name>Apr</name>
+<meanhigh>18.8</meanhigh><meanlow>7.7</meanlow><meanprecip>77.5</meanprecip>
+</month>
+<month>
+<name>May</name>
+<meanhigh>23.4</meanhigh><meanlow>11.3</meanlow><meanprecip>72.6</meanprecip>
+</month>
+<month>
+<name>Jun</name>
+<meanhigh>27.3</meanhigh><meanlow>14.7</meanlow><meanprecip>54.7</meanprecip>
+</month>
+<month>
+<name>Jul</name>
+<meanhigh>31.1</meanhigh><meanlow>17.2</meanlow><meanprecip>39.6</meanprecip>
+</month>
+<month>
+<name>Aug</name>
+<meanhigh>30.6</meanhigh><meanlow>17</meanlow><meanprecip>76.1</meanprecip>
+</month>
+<month>
+<name>Sep</name>
+<meanhigh>26.6</meanhigh><meanlow>14.2</meanlow><meanprecip>77.5</meanprecip>
+</month>
+<month>
+<name>Oct</name>
+<meanhigh>21.1</meanhigh><meanlow>10</meanlow><meanprecip>87.8</meanprecip>
+</month>
+<month>
+<name>Nov</name>
+<meanhigh>14.9</meanhigh><meanlow>5.5</meanlow><meanprecip>111.2</meanprecip>
+</month>
+<month>
+<name>Dec</name>
+<meanhigh>10.4</meanhigh><meanlow>2.4</meanlow><meanprecip>91.3</meanprecip>
+</month>
+</weather>
+</location>

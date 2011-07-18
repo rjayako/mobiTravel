@@ -1,0 +1,11 @@
+{ 
+  "location":"Venice",
+  "trips":[
+   { "name":"Merano GlassWorks", "time":"am","cost":45.00, "days":"all" },
+   { "name":"Gondola", "time":"am","cost":85.00, "days":"all" },
+   { "name":"Canal Tour", "time":"am","cost":40.00, "days":"all" },
+   { "name":"Baroque Concert", "time":"am","cost":60.00, "days":"all" }
+  ]
+}
+   
+  

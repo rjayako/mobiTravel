@@ -1,0 +1,96 @@
+<location name="Venice">
+<description>
+Rome (English pronunciation: /ˈroʊm/; Italian: Roma pronounced [ˈroːma] 
+;  Latin: Rōma) is the capital of Italy and the country's largest and 
+most populated city and comune, with over 2.7 million residents in 
+1,285.3 km2 (496.3 sq mi). The city is located in the central-western 
+portion of the Italian Peninsula, on the Tiber River within the Lazio 
+region of Italy.
+
+Rome's history spans two and a half thousand years. It was the capital 
+city of the Roman Kingdom, the Roman Republic and the Roman Empire, 
+which was the dominant power in Western Europe and the lands bordering 
+the Mediterranean Sea for over seven hundred years from the 1st century 
+BC until the 7th century AD. Since the 1st century AD Rome has been the 
+seat of the Papacy and, after the end of Byzantine domination, in the 
+8th century it became the capital of the Papal States, which lasted 
+until 1870. In 1871 Rome became the capital of the Kingdom of Italy, 
+and in 1946 that of the Italian Republic.
+
+After the Middle Ages, Rome was ruled by popes such as Alexander VI 
+and Leo X, who transformed the city into one of the major centers of 
+the Italian Renaissance, along with Florence.[2] The current version 
+of St Peter's Basilica was built and the Sistine Chapel was painted 
+by Michelangelo. Famous artists and architects, such as Bramante, 
+Bernini and Raphael resided for some time in Rome, contributing to 
+its Renaissance and Baroque architecture.
+
+In 2007 Rome was the 11th-most-visited city in the world, 3rd most 
+visited in the European Union, and the most popular tourist attraction 
+in Italy.[3] The city is one of Europe's and the world's most 
+successful city "brands", both in terms of reputation and assets.[4] 
+Its historic centre is listed by UNESCO as a World Heritage Site.[5] 
+Monuments and museums such as the Vatican Museums and the Colosseum 
+are amongst the world's 50 most visited tourist destinations (the 
+Vatican Museums receiving 4.2 million tourists and the Colosseum 
+receiving 4 million tourists every year).[6]
+</description>
+<shortdesc>What's there to say. Beautiful. Electric atmosphere and very sophisticated.
+The Coliseum, The Vatican, Trevi Fountain, Spanish Steps, Palatine Hill
+</shortdesc>
+<lat>45.4386111</lat>
+<long>12.3266667</long>
+<img src="CastelSantAngelo.jpg" alt="Castel Sant'Angelo" />
+<weather>
+
+<month>
+<name>Jan</name>
+<meanhigh>11.8</meanhigh><meanlow>2.7</meanlow><meanprecip>102.6</meanprecip>
+</month>
+<month>
+<name>Feb</name>
+<meanhigh>13</meanhigh><meanlow>3.5</meanlow><meanprecip>98.5</meanprecip>
+</month>
+<month>
+<name>Mar</name>
+<meanhigh>15.2</meanhigh><meanlow>5</meanlow><meanprecip>67.5</meanprecip>
+</month>
+<month>
+<name>Apr</name>
+<meanhigh>18.1</meanhigh><meanlow>7.5</meanlow><meanprecip>65.4</meanprecip>
+</month>
+<month>
+<name>May</name>
+<meanhigh>22.9</meanhigh><meanlow>11.1</meanlow><meanprecip>48.2</meanprecip>
+</month>
+<month>
+<name>Jun</name>
+<meanhigh>27</meanhigh><meanlow>14.7</meanlow><meanprecip>34.4</meanprecip>
+</month>
+<month>
+<name>Jul</name>
+<meanhigh>30.4</meanhigh><meanlow>17.4</meanlow><meanprecip>22.9</meanprecip>
+</month>
+<month>
+<name>Aug</name>
+<meanhigh>30.3</meanhigh><meanlow>17.5</meanlow><meanprecip>32.8</meanprecip>
+</month>
+<month>
+<name>Sep</name>
+<meanhigh>26.8</meanhigh><meanlow>14.8</meanlow><meanprecip>68.1</meanprecip>
+</month>
+<month>
+<name>Oct</name>
+<meanhigh>21.8</meanhigh><meanlow>10.8</meanlow><meanprecip>93.7</meanprecip>
+</month>
+<month>
+<name>Nov</name>
+<meanhigh>16.3</meanhigh><meanlow>6.8</meanlow><meanprecip>129.6</meanprecip>
+</month>
+
+<month>
+<name>Dec</name>
+<meanhigh>12.6</meanhigh><meanlow>3.9</meanlow><meanprecip>111</meanprecip>
+</month>
+</weather>
+</location>

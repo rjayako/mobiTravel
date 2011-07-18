@@ -1,0 +1,96 @@
+<location name="Venice">
+<description>
+Venice (Italian: Venezia [veˈnɛttsja] ( listen), Venetian: Venexia [veˈnɛsja]) is a city 
+in northern Italy known both for tourism and for industry, and is the capital of the region 
+Veneto, with a population of the whole Comune of about 270,660 (census estimate 30 April 2009). 
+Together with Padua and Treviso, the city is included in the Padua-Treviso-Venice Metropolitan 
+Area (PATREVE) (population 1,600,000).
+
+The name is derived from the ancient people of Veneti that inhabited 
+the region as of 10th century B.C.[1][2] The city historically was the capital of 
+the Venetian Republic. Venice has been known as the "La Dominante", "Serenissima", 
+"Queen of the Adriatic", "City of Water", "City of Masks", "City of Bridges", 
+"The Floating City", and "City of Canals". Luigi Barzini, writing in 
+The New York Times, described it as "undoubtedly the most beautiful city 
+built by man".[3] Venice has also been described by the Times Online as 
+being one of Europe's most romantic cities.[4]
+
+The city stretches across 117 small islands in the marshy Venetian 
+Lagoon along the Adriatic Sea in northeast Italy. The saltwater 
+lagoon stretches along the shoreline between the mouths of the Po 
+(south) and the Piave (north) Rivers. The population estimate of 
+272,000 inhabitants includes the population of the whole Comune 
+of Venezia; around 60,000[5] in the historic city of Venice 
+(Centro storico); 176,000 in Terraferma (the Mainland), mostly 
+in the large frazioni of Mestre and Marghera; and 31,000 live 
+on other islands in the lagoon.
+
+The Republic of Venice was a major maritime power during the 
+Middle Ages and Renaissance, and a staging area for the Crusades 
+and the Battle of Lepanto, as well as a very important center of 
+commerce (especially silk, grain and spice trade) and art in the 
+13th century up to the end of the 17th century. This made Venice 
+a wealthy city throughout most of its history.[6] It is also known 
+for its several important artistic movements, especially the 
+Renaissance period. Venice has played an important role in the 
+history of symphonic and operatic music, and it is the birthplace 
+of Antonio Vivaldi.</description>
+<shortdesc>
+Beautiful medieval city built on a lagoon.  City transit is only by
+boat.  Several important festivals, including movie festivals and
+Mardi Gras.</shortdesc>
+<lat>45.4386111</lat>
+<long>12.3266667</long>
+<img src="Rialto_Bridge.jpg" alt="Rialto Bridge and the Grand Canal" />
+<weather>
+<month>
+<name>Jan</name>
+<meanhigh>6</meanhigh><meanlow>-1</meanlow><meanprecip>58.4</meanprecip>
+</month>
+<month>
+<name>Feb</name>
+<meanhigh>8</meanhigh><meanlow>1</meanlow><meanprecip>53.3</meanprecip>
+</month>
+<month>
+<name>Mar</name>
+<meanhigh>12</meanhigh><meanlow>3</meanlow><meanprecip>58.4</meanprecip>
+</month>
+<month>
+<name>Apr</name>
+<meanhigh>16</meanhigh><meanlow>8</meanlow><meanprecip>63.5</meanprecip>
+</month>
+<month>
+<name>May</name>
+<meanhigh>21</meanhigh><meanlow>12</meanlow><meanprecip>68.6</meanprecip>
+</month>
+<month>
+<name>Jun</name>
+<meanhigh>24</meanhigh><meanlow>16</meanlow><meanprecip>76.2</meanprecip>
+</month>
+<month>
+<name>Jul</name>
+<meanhigh>27</meanhigh><meanlow>18</meanlow><meanprecip>63.5</meanprecip>
+</month>
+<month>
+<name>Aug</name>
+<meanhigh>27</meanhigh><meanlow>17</meanlow><meanprecip>83.8</meanprecip>
+</month>
+<month>
+<name>Sep</name>
+<meanhigh>23</meanhigh><meanlow>14</meanlow><meanprecip>66.0</meanprecip>
+</month>
+<month>
+<name>Oct</name>
+<meanhigh>18</meanhigh><meanlow>9</meanlow><meanprecip>68.6</meanprecip>
+</month>
+<month>
+<name>Nov</name>
+<meanhigh>11.5</meanhigh><meanlow>4.2</meanlow><meanprecip>87.3</meanprecip>
+</month>
+<month>
+<name>Dec</name>
+<meanhigh>6.7</meanhigh><meanlow>0</meanlow><meanprecip>53.7</meanprecip>
+</month>
+
+</weather>
+</location>

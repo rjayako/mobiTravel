@@ -1,0 +1,11 @@
+{ 
+  "location":"Rome",
+  "trips":[
+   { "name":"Spanish Steps Tour", "time":"am","cost":45.00, "days":"all" },
+   { "name":"Vatican Museums", "time":"am","cost":35.00, "days":"all" },
+   { "name":"Green Rome Tour", "time":"am","cost":40.00, "days":"all" },
+   { "name":"Coliseum", "time":"am","cost":25.00, "days":"all" }
+  ]
+}
+   
+  

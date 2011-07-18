@@ -1,0 +1,11 @@
+{ 
+  "location":"Florence",
+  "trips":[
+   { "name":"Uffizi Gallery", "time":"am","cost":45.00, "days":"all" },
+   { "name":"Arno Boat Tour", "time":"am","cost":35.00, "days":"all" },
+   { "name":"Duomo and Duomo Museum", "time":"am","cost":40.00, "days":"all" },
+   { "name":"Tuscan Wine Tour", "time":"am","cost":120.00, "days":"all" }
+  ]
+}
+   
+  
